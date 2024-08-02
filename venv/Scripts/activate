@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\heyber.nino\Downloads\-TALLER2-h.ninog\-TALLER2-h.ninog\venv"
+VIRTUAL_ENV="C:\Users\heyber.nino\OneDrive - NEORIS\Documentos\TalleresCursoPython\Tallerfinal\Taller2-hninog\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
